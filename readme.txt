@@ -1,3 +1,3 @@
 Hello Wilders!
 This is challenge 3 of Git-it!
-Continuing with Git guides: Hello World
+Exercise inside week1quest4 on branches with Git guides: Hello World
